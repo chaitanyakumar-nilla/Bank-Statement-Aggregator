@@ -1,4 +1,4 @@
-# Bank Statement Aggregator
+# Bank Statement Aggregator Application
 
 ## Overview
 
