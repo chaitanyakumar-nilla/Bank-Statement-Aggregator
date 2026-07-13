@@ -23,7 +23,6 @@ The **Bank Statement Aggregator** is a Spring Boot-based application designed to
 - **Database**: MySQL
 - **File Storage**: AWS S3
 - **Authentication**: Spring Security
-- **Frontend**: HTML, CSS, JavaScript
 - **Build Tool**: Maven
 
 ---
